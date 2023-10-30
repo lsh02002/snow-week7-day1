@@ -15,7 +15,7 @@ const css = (styleString) => {
 };
 
 const mainPicsAreas = css(`
-  width:100%;
+  width:800px;
 
   display:flex;
   just-content: center;  
@@ -50,7 +50,7 @@ const mainPicRight = css(`
 `);
 
 const mainBelowAreas = css(`
-  width:100%;  
+  width:800px;  
   display:flex;
   just-content: center;  
   align-items:center;
